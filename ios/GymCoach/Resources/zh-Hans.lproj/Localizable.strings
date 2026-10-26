@@ -1,0 +1,93 @@
+/* Home */
+"AI Gym Coach" = "AI 健身教练";
+"Auto-detect" = "自动识别";
+"I'll recognize the movement" = "自动识别你的动作";
+"Voice coaching" = "语音指导";
+
+/* Workout */
+"Ready. Let's go!" = "准备好了，开始吧！";
+"Detecting exercise…" = "正在识别动作…";
+"phase.IDLE" = "准备";
+"phase.DESCENT" = "下降";
+"phase.BOTTOM" = "底部";
+"phase.ASCENT" = "上升";
+"Reps %lld" = "次数 %lld";
+"Score %lld" = "得分 %lld";
+"Hold %.1f s   ·   best %.1f s" = "坚持 %.1f 秒 · 最佳 %.1f 秒";
+"End set" = "结束这组";
+
+/* Summary */
+"Set complete" = "本组完成";
+"Set" = "本组";
+"Exercise" = "动作";
+"Duration" = "时长";
+"Total hold" = "总坚持时间";
+"Best streak" = "最长连续";
+"Reps" = "次数";
+"Average score" = "平均得分";
+"Velocity loss" = "速度下降";
+"Focus points" = "改进要点";
+"×%lld" = "×%lld";
+"Clean set — no recurring faults!" = "完美的一组——没有重复出现的问题！";
+"Done" = "完成";
+
+/* History */
+"Progress" = "进度";
+"Score trend" = "得分趋势";
+"Sessions" = "训练记录";
+"No workouts yet" = "还没有训练记录";
+"Finish a set and it will show up here." = "完成一组训练后会显示在这里。";
+"Complete two scored sessions of %@ to see a trend." = "完成两次有评分的%@训练即可查看趋势。";
+"%lld reps" = "%lld 次";
+"score %lld" = "得分 %lld";
+"vel. loss %.0f%%" = "速度下降 %.0f%%";
+"hold %.0f s" = "坚持 %.0f 秒";
+"best %.0f s" = "最佳 %.0f 秒";
+
+/* Apple Health */
+"Apple Health" = "Apple 健康";
+"Apple Health is not available on this device." = "此设备不支持 Apple 健康。";
+"Connect Apple Health" = "连接 Apple 健康";
+"Every finished set is saved to Health as a Strength Training workout (it counts toward your Fitness rings), and the coach reads the fitness data below to personalise cues, zones and rest. Data is read on this iPhone only — nothing is uploaded." = "每个完成的组会作为力量训练体能训练保存到「健康」（计入健身圆环），教练会读取下方的健身数据来个性化提示、心率区间和休息。数据仅在此 iPhone 上读取，不会上传。";
+"What the coach reads" = "教练读取的内容";
+"What the coach writes" = "教练写入的内容";
+"Resting heart rate" = "静息心率";
+"Heart rate variability" = "心率变异性";
+"VO₂ max" = "最大摄氧量";
+"Weight" = "体重";
+"Height" = "身高";
+"Age" = "年龄";
+"Estimated max heart rate" = "估算最大心率";
+"Sleep last night" = "昨晚睡眠";
+"Steps today" = "今日步数";
+"Active energy today" = "今日活动能量";
+"Exercise minutes today" = "今日锻炼分钟";
+"Workouts, last 7 days" = "最近 7 天的体能训练";
+"%lld · %.0f min" = "%lld · %.0f 分钟";
+"No data yet — tap Refresh, or grant access in the Health app." = "暂无数据——点击「刷新」，或在「健康」App 中授予权限。";
+"Refresh" = "刷新";
+"Resting heart rate, HRV and sleep say how recovered you are; weight sets your protein target; age gives the heart-rate zones; steps, energy and this week's workouts show how much you have already done. Live heart rate during a set needs an Apple Watch workout or a strap that writes to Health." = "静息心率、HRV 和睡眠反映恢复程度；体重决定蛋白质目标；年龄决定心率区间；步数、能量和本周训练显示你已完成的量。组内实时心率需要 Apple Watch 体能训练或能写入「健康」的心率带。";
+"One Strength Training workout per set, with reps, score and focus points in its details." = "每组一次力量训练记录，详情中包含次数、得分和改进要点。";
+"Last saved" = "上次保存";
+"Open the Health app" = "打开「健康」App";
+"Open the Fitness app" = "打开「健身」App";
+"Manage permissions in Health → Sharing → Apps → AI Gym Coach. Workouts appear in Fitness → Summary and Health → Activity → Workouts." = "在「健康 → 共享 → App → AI Gym Coach」中管理权限。体能训练显示在「健身 → 摘要」和「健康 → 活动 → 体能训练」中。";
+"Heart rate" = "心率";
+"avg %lld · peak %lld bpm" = "平均 %lld · 峰值 %lld bpm";
+"Z%lld" = "区%lld";
+"Saved as a Strength Training workout" = "已保存为力量训练";
+"Saving to Apple Health…" = "正在保存到 Apple 健康…";
+"Connect Apple Health to save workouts and heart rate" = "连接 Apple 健康以保存体能训练和心率";
+
+/* Account */
+"Account" = "账户";
+"Signed in" = "已登录";
+"Sign in" = "登录";
+"Sign out" = "退出登录";
+"via %@" = "通过 %@";
+"Sign in with Google" = "使用 Google 登录";
+"Sign in with Microsoft" = "使用 Microsoft 登录";
+"Signing in…" = "正在登录…";
+"Your name and e-mail are kept in this iPhone's keychain and shown in your summaries. Nothing about your training is sent to the provider." = "你的姓名和邮箱保存在此 iPhone 的钥匙串中并显示在摘要里。不会向提供方发送任何训练数据。";
+"Optional. Signing in puts your name on your summaries and lets the same account open your progress dashboard. The sign-in page is the provider's own, in a secure system browser sheet; only your name and e-mail are read." = "可选。登录后你的姓名会显示在摘要中，并且同一账户可以打开你的进度仪表板。登录页面是提供方自己的页面，在安全的系统浏览器面板中；只读取你的姓名和邮箱。";
+"Google and Microsoft sign-in appear when a client id is configured for this build (docs/AUTH.md)." = "为此构建配置 client id 后会显示 Google 和 Microsoft 登录（docs/AUTH.md）。";

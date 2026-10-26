@@ -1,0 +1,22 @@
+.git
+.github
+.gitignore
+.venv
+venv
+docs
+data
+!data/coach_evals.jsonl
+!data/parity_fixtures.json
+README.md
+docker-compose.yml
+Dockerfile
+.dockerignore
+__pycache__
+*.pyc
+*.task
+workout_log.json
+
+# knowledge base + exercise catalogue are baked into the image (coach_knowledge.py)
+!data/exercises.json
+!data/knowledge/
+!data/knowledge/**

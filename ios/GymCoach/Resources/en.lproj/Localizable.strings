@@ -1,0 +1,93 @@
+/* Home */
+"AI Gym Coach" = "AI Gym Coach";
+"Auto-detect" = "Auto-detect";
+"I'll recognize the movement" = "I'll recognize the movement";
+"Voice coaching" = "Voice coaching";
+
+/* Workout */
+"Ready. Let's go!" = "Ready. Let's go!";
+"Detecting exercise…" = "Detecting exercise…";
+"phase.IDLE" = "Ready";
+"phase.DESCENT" = "Down";
+"phase.BOTTOM" = "Bottom";
+"phase.ASCENT" = "Up";
+"Reps %lld" = "Reps %lld";
+"Score %lld" = "Score %lld";
+"Hold %.1f s   ·   best %.1f s" = "Hold %.1f s   ·   best %.1f s";
+"End set" = "End set";
+
+/* Summary */
+"Set complete" = "Set complete";
+"Set" = "Set";
+"Exercise" = "Exercise";
+"Duration" = "Duration";
+"Total hold" = "Total hold";
+"Best streak" = "Best streak";
+"Reps" = "Reps";
+"Average score" = "Average score";
+"Velocity loss" = "Velocity loss";
+"Focus points" = "Focus points";
+"×%lld" = "×%lld";
+"Clean set — no recurring faults!" = "Clean set — no recurring faults!";
+"Done" = "Done";
+
+/* History */
+"Progress" = "Progress";
+"Score trend" = "Score trend";
+"Sessions" = "Sessions";
+"No workouts yet" = "No workouts yet";
+"Finish a set and it will show up here." = "Finish a set and it will show up here.";
+"Complete two scored sessions of %@ to see a trend." = "Complete two scored sessions of %@ to see a trend.";
+"%lld reps" = "%lld reps";
+"score %lld" = "score %lld";
+"vel. loss %.0f%%" = "vel. loss %.0f%%";
+"hold %.0f s" = "hold %.0f s";
+"best %.0f s" = "best %.0f s";
+
+/* Apple Health */
+"Apple Health" = "Apple Health";
+"Apple Health is not available on this device." = "Apple Health is not available on this device.";
+"Connect Apple Health" = "Connect Apple Health";
+"Every finished set is saved to Health as a Strength Training workout (it counts toward your Fitness rings), and the coach reads the fitness data below to personalise cues, zones and rest. Data is read on this iPhone only — nothing is uploaded." = "Every finished set is saved to Health as a Strength Training workout (it counts toward your Fitness rings), and the coach reads the fitness data below to personalise cues, zones and rest. Data is read on this iPhone only — nothing is uploaded.";
+"What the coach reads" = "What the coach reads";
+"What the coach writes" = "What the coach writes";
+"Resting heart rate" = "Resting heart rate";
+"Heart rate variability" = "Heart rate variability";
+"VO₂ max" = "VO₂ max";
+"Weight" = "Weight";
+"Height" = "Height";
+"Age" = "Age";
+"Estimated max heart rate" = "Estimated max heart rate";
+"Sleep last night" = "Sleep last night";
+"Steps today" = "Steps today";
+"Active energy today" = "Active energy today";
+"Exercise minutes today" = "Exercise minutes today";
+"Workouts, last 7 days" = "Workouts, last 7 days";
+"%lld · %.0f min" = "%lld · %.0f min";
+"No data yet — tap Refresh, or grant access in the Health app." = "No data yet — tap Refresh, or grant access in the Health app.";
+"Refresh" = "Refresh";
+"Resting heart rate, HRV and sleep say how recovered you are; weight sets your protein target; age gives the heart-rate zones; steps, energy and this week's workouts show how much you have already done. Live heart rate during a set needs an Apple Watch workout or a strap that writes to Health." = "Resting heart rate, HRV and sleep say how recovered you are; weight sets your protein target; age gives the heart-rate zones; steps, energy and this week's workouts show how much you have already done. Live heart rate during a set needs an Apple Watch workout or a strap that writes to Health.";
+"One Strength Training workout per set, with reps, score and focus points in its details." = "One Strength Training workout per set, with reps, score and focus points in its details.";
+"Last saved" = "Last saved";
+"Open the Health app" = "Open the Health app";
+"Open the Fitness app" = "Open the Fitness app";
+"Manage permissions in Health → Sharing → Apps → AI Gym Coach. Workouts appear in Fitness → Summary and Health → Activity → Workouts." = "Manage permissions in Health → Sharing → Apps → AI Gym Coach. Workouts appear in Fitness → Summary and Health → Activity → Workouts.";
+"Heart rate" = "Heart rate";
+"avg %lld · peak %lld bpm" = "avg %lld · peak %lld bpm";
+"Z%lld" = "Z%lld";
+"Saved as a Strength Training workout" = "Saved as a Strength Training workout";
+"Saving to Apple Health…" = "Saving to Apple Health…";
+"Connect Apple Health to save workouts and heart rate" = "Connect Apple Health to save workouts and heart rate";
+
+/* Account */
+"Account" = "Account";
+"Signed in" = "Signed in";
+"Sign in" = "Sign in";
+"Sign out" = "Sign out";
+"via %@" = "via %@";
+"Sign in with Google" = "Sign in with Google";
+"Sign in with Microsoft" = "Sign in with Microsoft";
+"Signing in…" = "Signing in…";
+"Your name and e-mail are kept in this iPhone's keychain and shown in your summaries. Nothing about your training is sent to the provider." = "Your name and e-mail are kept in this iPhone's keychain and shown in your summaries. Nothing about your training is sent to the provider.";
+"Optional. Signing in puts your name on your summaries and lets the same account open your progress dashboard. The sign-in page is the provider's own, in a secure system browser sheet; only your name and e-mail are read." = "Optional. Signing in puts your name on your summaries and lets the same account open your progress dashboard. The sign-in page is the provider's own, in a secure system browser sheet; only your name and e-mail are read.";
+"Google and Microsoft sign-in appear when a client id is configured for this build (docs/AUTH.md)." = "Google and Microsoft sign-in appear when a client id is configured for this build (docs/AUTH.md).";

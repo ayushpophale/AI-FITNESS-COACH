@@ -1,0 +1,93 @@
+/* Home */
+"AI Gym Coach" = "AI Gym Coach";
+"Auto-detect" = "Détection auto";
+"I'll recognize the movement" = "Je reconnais le mouvement";
+"Voice coaching" = "Coach vocal";
+
+/* Workout */
+"Ready. Let's go!" = "Prêt. C'est parti !";
+"Detecting exercise…" = "Détection de l'exercice…";
+"phase.IDLE" = "Prêt";
+"phase.DESCENT" = "Descente";
+"phase.BOTTOM" = "Bas";
+"phase.ASCENT" = "Montée";
+"Reps %lld" = "Reps %lld";
+"Score %lld" = "Score %lld";
+"Hold %.1f s   ·   best %.1f s" = "Tiens %.1f s   ·   record %.1f s";
+"End set" = "Terminer la série";
+
+/* Summary */
+"Set complete" = "Série terminée";
+"Set" = "Série";
+"Exercise" = "Exercice";
+"Duration" = "Durée";
+"Total hold" = "Temps total";
+"Best streak" = "Meilleure série";
+"Reps" = "Répétitions";
+"Average score" = "Score moyen";
+"Velocity loss" = "Perte de vitesse";
+"Focus points" = "Points à travailler";
+"×%lld" = "×%lld";
+"Clean set — no recurring faults!" = "Série parfaite — aucune faute récurrente !";
+"Done" = "OK";
+
+/* History */
+"Progress" = "Progression";
+"Score trend" = "Tendance du score";
+"Sessions" = "Séances";
+"No workouts yet" = "Aucun entraînement pour l'instant";
+"Finish a set and it will show up here." = "Termine une série et elle apparaîtra ici.";
+"Complete two scored sessions of %@ to see a trend." = "Termine deux séances notées de %@ pour voir la tendance.";
+"%lld reps" = "%lld reps";
+"score %lld" = "score %lld";
+"vel. loss %.0f%%" = "perte vit. %.0f%%";
+"hold %.0f s" = "tenu %.0f s";
+"best %.0f s" = "record %.0f s";
+
+/* Apple Health */
+"Apple Health" = "Apple Santé";
+"Apple Health is not available on this device." = "Apple Santé n'est pas disponible sur cet appareil.";
+"Connect Apple Health" = "Connecter Apple Santé";
+"Every finished set is saved to Health as a Strength Training workout (it counts toward your Fitness rings), and the coach reads the fitness data below to personalise cues, zones and rest. Data is read on this iPhone only — nothing is uploaded." = "Chaque série terminée est enregistrée dans Santé comme entraînement de musculation (elle compte pour vos anneaux Fitness), et le coach lit les données ci-dessous pour personnaliser les consignes, les zones et la récupération. Les données sont lues sur cet iPhone uniquement — rien n'est envoyé.";
+"What the coach reads" = "Ce que le coach lit";
+"What the coach writes" = "Ce que le coach écrit";
+"Resting heart rate" = "Fréquence cardiaque au repos";
+"Heart rate variability" = "Variabilité cardiaque";
+"VO₂ max" = "VO₂ max";
+"Weight" = "Poids";
+"Height" = "Taille";
+"Age" = "Âge";
+"Estimated max heart rate" = "FC max estimée";
+"Sleep last night" = "Sommeil la nuit dernière";
+"Steps today" = "Pas aujourd'hui";
+"Active energy today" = "Énergie active aujourd'hui";
+"Exercise minutes today" = "Minutes d'exercice aujourd'hui";
+"Workouts, last 7 days" = "Entraînements, 7 derniers jours";
+"%lld · %.0f min" = "%lld · %.0f min";
+"No data yet — tap Refresh, or grant access in the Health app." = "Pas encore de données — touchez Actualiser ou autorisez l'accès dans l'app Santé.";
+"Refresh" = "Actualiser";
+"Resting heart rate, HRV and sleep say how recovered you are; weight sets your protein target; age gives the heart-rate zones; steps, energy and this week's workouts show how much you have already done. Live heart rate during a set needs an Apple Watch workout or a strap that writes to Health." = "FC au repos, VFC et sommeil indiquent votre récupération ; le poids fixe votre objectif de protéines ; l'âge donne les zones cardiaques ; pas, énergie et entraînements de la semaine montrent ce que vous avez déjà fait. La FC en direct pendant une série nécessite un entraînement Apple Watch ou une ceinture qui écrit dans Santé.";
+"One Strength Training workout per set, with reps, score and focus points in its details." = "Un entraînement de musculation par série, avec répétitions, score et points d'attention dans les détails.";
+"Last saved" = "Dernier enregistrement";
+"Open the Health app" = "Ouvrir l'app Santé";
+"Open the Fitness app" = "Ouvrir l'app Fitness";
+"Manage permissions in Health → Sharing → Apps → AI Gym Coach. Workouts appear in Fitness → Summary and Health → Activity → Workouts." = "Gérez les autorisations dans Santé → Partage → Apps → AI Gym Coach. Les entraînements apparaissent dans Fitness → Résumé et Santé → Activité → Entraînements.";
+"Heart rate" = "Fréquence cardiaque";
+"avg %lld · peak %lld bpm" = "moy. %lld · pic %lld bpm";
+"Z%lld" = "Z%lld";
+"Saved as a Strength Training workout" = "Enregistré comme entraînement de musculation";
+"Saving to Apple Health…" = "Enregistrement dans Apple Santé…";
+"Connect Apple Health to save workouts and heart rate" = "Connectez Apple Santé pour enregistrer entraînements et fréquence cardiaque";
+
+/* Account */
+"Account" = "Compte";
+"Signed in" = "Connecté";
+"Sign in" = "Se connecter";
+"Sign out" = "Se déconnecter";
+"via %@" = "via %@";
+"Sign in with Google" = "Se connecter avec Google";
+"Sign in with Microsoft" = "Se connecter avec Microsoft";
+"Signing in…" = "Connexion…";
+"Your name and e-mail are kept in this iPhone's keychain and shown in your summaries. Nothing about your training is sent to the provider." = "Votre nom et votre e-mail sont conservés dans le trousseau de cet iPhone et affichés dans vos résumés. Rien de votre entraînement n'est envoyé au fournisseur.";
+"Optional. Signing in puts your name on your summaries and lets the same account open your progress dashboard. The sign-in page is the provider's own, in a secure system browser sheet; only your name and e-mail are read." = "Facultatif. La connexion met votre nom sur vos résumés et permet au même compte d'ouvrir votre tableau de bord. La page de connexion est celle du fournisseur, dans une fenêtre système sécurisée ; seuls votre nom et votre e-mail sont lus.";
+"Google and Microsoft sign-in appear when a client id is configured for this build (docs/AUTH.md)." = "Les connexions Google et Microsoft apparaissent lorsqu'un identifiant client est configuré pour cette version (docs/AUTH.md).";

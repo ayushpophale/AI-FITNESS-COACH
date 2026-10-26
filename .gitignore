@@ -1,0 +1,59 @@
+__pycache__/
+*.pyc
+.DS_Store
+*/.DS_Store
+.venv/
+venv/
+
+# downloaded pose model
+*.task
+
+# personal workout data
+workout_log.json
+references.json
+coach_profile.db
+
+# Google Calendar credentials + tokens (never commit)
+google_credentials.json
+google_token.json
+
+# trained classifier weights, manifests, un-promoted candidates + collected
+# training data (docs/INFRA.md §4)
+classifier.npz
+classifier.candidate.npz
+*.manifest.json
+*.windows.jsonl
+
+# coach LLM trace (local, may contain your questions if COACH_TRACE_TEXT=1)
+# and ad-hoc eval reports; the committed baseline lives in data/
+coach_trace*.jsonl
+coach_eval_report*.json
+coach_eval_report*.md
+
+.idea/
+.vscode/
+
+# Android (generated or user-specific; the pose model is fetched at build
+# time by the downloadPoseModel gradle task, never committed)
+android/.gradle/
+android/local.properties
+android/**/build/
+android/app/src/main/assets/pose_landmarker_lite.task
+
+# Xcode / Swift (generated or user-specific)
+ios/GymCoach/GymCoach.xcodeproj/
+ios/GymCoach/Info.plist
+ios/**/.build/
+ios/**/DerivedData/
+ios/**/xcuserdata/
+*.xcresult
+
+
+# MCP bridge runtime files (coach_mcp.py)
+data/live_state.json
+data/live_state.json.tmp
+data/app_commands.jsonl
+
+# sign-in identity (coach_auth.py) — personal, never committed
+coach_identity.json
+coach_identity.json.tmp
